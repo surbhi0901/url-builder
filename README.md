@@ -1,5 +1,10 @@
 # What You Will Build
-Fork this repository and build a simple tool using HTML, CSS and JavaScript (without using any framework or library) which takes three inputs and generates a URL. Inside the 'project' folder, write your HTML code in index.html, CSS in stylesheets.css and JavaScript code in script.js. Once done, you can submit a pull request.
+Simple tool using HTML, CSS and JavaScript (without using any framework or library) which takes three inputs and generates a URL. 
+
+# How To Start
+1. [Fork this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+2. Inside the 'project' folder, write your HTML code in index.html, CSS in stylesheets.css and JavaScript code in script.js. 
+3. Once done, you can [submit a pull request.](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 # Sample Input
 * Original URL: http://google.com
