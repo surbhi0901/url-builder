@@ -7,7 +7,7 @@ A simple tool using HTML, CSS and JavaScript (without using any framework or lib
 * Team: info@progate.com
 
 # Sample Output
-http://google.com#sc=PSV&team=info@progate.com
+http://google.com#src=PSV&team=info@progate.com
 
 # Optional Features
 * Input validation (ex - if 'Original URL' is not a link or 'Team' is not an email, display an error)
